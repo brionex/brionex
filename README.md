@@ -6,17 +6,19 @@
 
 <p align="center">
   <a href="https://www.linkedin.com/in/jesús-briones-95888a25b">
-    <img src="https://github.com/user-attachments/assets/d73f9e2f-2a50-4400-838b-e950cb5414e4" width="20px" />
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white" width="100px" />
     Leonel Briones
   </a>
   &nbsp;&nbsp;&nbsp;
-  <a href="brionex.xyz">
-    <img src="https://github.com/user-attachments/assets/9a0dee87-c9a3-423c-9d7f-0edcf87d9c25" width="20px" />
+  <a href="https://brionex.xyz">
+    <img src="https://img.shields.io/badge/Portfolio-000000?style=flat-square&logo=portfolio&logoColor=white" width="100px" />
     Portafolio
   </a>
 </p>
 
-"Soy desarrollador web full stack con más de 2 años creando proyectos web funcionales y dinámicos. Me apasiona el desarrollo web, y disfruto programando y aprendiendo algo nuevo cada día."
+<p align="center">
+  "Soy desarrollador web full stack con más de 2 años creando proyectos web funcionales y dinámicos. Me apasiona el desarrollo web, y disfruto programando y aprendiendo algo nuevo cada día."
+</p>
 
 ## 🚀 Tecnologías y herramientas
 
@@ -35,6 +37,6 @@
 
 - **[Proyecto](#)**: ....
 
+## 📊 Métricas
+
 ![github-metrics.svg](github-metrics.svg)
-
-
