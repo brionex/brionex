@@ -1,4 +1,4 @@
-![linkedin](https://github.com/user-attachments/assets/e25c8a6c-98e3-4e02-b434-4ee061e5b742)<p align="center" width="300">
+<p align="center" width="300">
   <img align="center" width="200" src="https://github.com/user-attachments/assets/c4cf1a12-c927-4748-908c-90c92ee0d86a" style="border-radius:50%" />
 </p>
 
@@ -35,6 +35,6 @@
 
 - **[Proyecto](#)**: ....
 
-![github-metrics.svg]()
+![github-metrics.svg](github-metrics.svg)
 
 
