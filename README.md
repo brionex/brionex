@@ -7,12 +7,10 @@
 <p align="center">
   <a href="https://www.linkedin.com/in/jesús-briones-95888a25b">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white" width="100px" />
-    Leonel Briones
   </a>
   &nbsp;&nbsp;&nbsp;
   <a href="https://brionex.xyz">
     <img src="https://img.shields.io/badge/Portfolio-000000?style=flat-square&logo=portfolio&logoColor=white" width="100px" />
-    Portafolio
   </a>
 </p>
 
