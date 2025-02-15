@@ -15,7 +15,7 @@
 
 
 <p align="center">
-  "Soy desarrollador web full stack con más de 2 años creando proyectos web funcionales y dinámicos. Me apasiona el desarrollo web, y disfruto programando y aprendiendo algo nuevo cada día."
+  "Desarrollador web full stack con más de 2 años creando proyectos web funcionales y dinámicos. Me apasiona el desarrollo web, y disfruto programando y aprendiendo algo nuevo cada día."
 </p>
 
 ## 🚀 Tecnologías y herramientas
@@ -30,10 +30,6 @@
 - Profundizando en **Electron** para aplicaciones de escritorio.
 - Explorando nuevas herramientas y metodologías de **desarrollo web**.
 - Explorando el desarrollo de aplicaciones móviles con **React Native**.
-
-## 🛠 Proyectos destacados
-
-- **[Proyecto](#)**: ....
 
 ## 📊 Métricas
 
